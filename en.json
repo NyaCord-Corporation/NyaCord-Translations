@@ -1,0 +1,51 @@
+{
+    "privacy_policy": {
+        "title": "Privacy Policy",
+        "welcome": "Welcome to NyaCord. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share your information when you use our platform.",
+        "info_collect": "Information We Collect",
+        "info_collect_desc1": "We may collect personal information from you such as your name, email address, and any other information you provide to us when you sign up for our platform or use our services.",
+        "info_collect_desc2": "This may also include information collected automatically through cookies or similar tracking technologies such as your IP address, device type, and browsing behavior.",
+        "how_we_use": "How We Use Your Information",
+        "how_we_use_desc": "We use the information we collect for purposes such as:",
+        "how_we_use_list": [
+            "Providing and improving our services",
+            "Communicating with you regarding updates or new features",
+            "Ensuring the security of our platform",
+            "Understanding user behavior to improve user experience"
+        ],
+        "how_we_share": "How We Share Your Information",
+        "how_we_share_desc": "We may share your personal information with third parties for the purposes of:",
+        "how_we_share_list": [
+            "Service providers who help us run our platform",
+            "Law enforcement or regulatory authorities if required by law",
+            "Business transfers, in case of a merger or acquisition"
+        ],
+        "your_rights": "Your Rights",
+        "your_rights_desc": "You have the right to:",
+        "your_rights_list": [
+            "Access, update, or delete your personal information",
+            "Withdraw your consent to the processing of your personal data",
+            "Opt-out of certain communications"
+        ],
+        "security_info": "Security of Your Information",
+        "security_info_desc": "We take the security of your information seriously and use reasonable technical and organizational measures to protect it.",
+        "changes_policy": "Changes to This Privacy Policy",
+        "changes_policy_desc": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with a revision date at the top. Please review it periodically to stay informed.",
+        "contact_us": "Contact Us",
+        "contact_email": "If you have any questions about this Privacy Policy or how we handle your information, please contact us at support@nyacord.com."
+    },
+    "main_page": {
+        "hero_title": "Connect with Friends, Anytime",
+        "hero_subtitle": "Your favorite chat app, now with more features than ever.",
+        "cta_button": "Get Started",
+        "feature1_title": "Instant Messaging",
+        "feature1_desc": "Discover awesome features and stay connected with your friends and community.",
+        "feature2_title": "Secure Platform",
+        "feature2_desc": "Secure and easy-to-use platform with lots of amazing tools to ensure privacy and safety.",
+        "feature3_title": "Exclusive Rewards",
+        "feature3_desc": "Earn exclusive content and rewards for being an active member of the community."
+    },
+    "footer": {
+        "footer_text": "Stay connected with your friends and community using NyaCord, the best platform for secure and fast messaging."
+    }
+}
